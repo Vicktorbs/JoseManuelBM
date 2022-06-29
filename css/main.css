@@ -1,0 +1,9 @@
+header {
+    height: 65vh;
+    overflow-y: hidden;
+}
+header img {
+    filter: grayscale(30%);
+    position: relative;
+    top: -100px;
+}
